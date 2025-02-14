@@ -48,3 +48,5 @@ Bom estudo. 🍀
 ## Tecnologias utilizadas. 
 - HTML
 - CSS
+- jAVASCRIPT
+- API
