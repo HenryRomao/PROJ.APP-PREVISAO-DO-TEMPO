@@ -40,7 +40,7 @@ git clone https://github.com/HenryRomao/PROJ.APP-PREVISAO-DO-TEMPO.git
 
 Acesse a pasta do projeto:
 ```
-cd PROJ. APP-PREVISAO-DO-TEMPO
+cd PROJ.APP-PREVISAO-DO-TEMPO
 ```
 
 Bom estudo. 🍀
